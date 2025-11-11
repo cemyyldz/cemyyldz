@@ -1,4 +1,4 @@
-#  Merhaba, ben Oğulcem Yıldız
+
 ###  Junior Software Developer  
 [![Email](https://img.shields.io/badge/Email-cem.yyldz@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cem.yyldz@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oğulcem%20Yıldız-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogulcemyildiz)
@@ -7,6 +7,7 @@
 ---
 
 ##  Hakkımda
+Merhaba, ben Oğulcem Yıldız
 Disiplinli, çözüm odaklı ve takım çalışmasına yatkın bir yazılım geliştiricisiyim.  
 Teknolojiyi yakından takip eder, öğrenmeye açık bir şekilde yeni beceriler edinmeyi hedeflerim.  
 Amacım, edindiğim bilgi ve deneyimleri kullanarak kullanıcı odaklı, sürdürülebilir ve verimli yazılım çözümleri üretmektir.  
