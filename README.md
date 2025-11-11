@@ -1,8 +1,8 @@
 #  Merhaba, ben Oğulcem Yıldız
 ###  Junior Software Developer  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oğulcem%20Yıldız-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ogulcemyildiz/)
-[![GitHub](https://img.shields.io/badge/GitHub-cemyyldz-black?style=flat-square&logo=github)](https://github.com/cemyyldz)
-[![Mail](https://img.shields.io/badge/Email-cem.yyldz@hotmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cem.yyldz@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-cem.yyldz@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cem.yyldz@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oğulcem%20Yıldız-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogulcemyildiz)
+[![GitHub](https://img.shields.io/badge/GitHub-cemyyldz-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cemyyldz)
 
 ---
 
@@ -43,11 +43,5 @@ Amacım, edindiğim bilgi ve deneyimleri kullanarak kullanıcı odaklı, sürdü
 **![Frameworkler](https://img.shields.io/badge/Frameworkler-6DB33F?style=for-the-badge&logo=spring&logoColor=white)**  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-
-## 📫 İletişim
-
-[![Email](https://img.shields.io/badge/Email-cem.yyldz@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cem.yyldz@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oğulcem%20Yıldız-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogulcemyildiz)
-[![GitHub](https://img.shields.io/badge/GitHub-cemyyldz-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cemyyldz)
 
 ###  “Gelişime açık, merakıyla beslenen ve teknolojiyi tutkuyla takip eden bir mühendis adayıyım.”  
