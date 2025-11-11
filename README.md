@@ -44,11 +44,10 @@ Amacım, edindiğim bilgi ve deneyimleri kullanarak kullanıcı odaklı, sürdü
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-##  İletişim
- **E-posta:** [cem.yyldz@hotmail.com](mailto:cem.yyldz@hotmail.com)  
- **LinkedIn:** [linkedin.com/in/ogulcemyildiz](https://www.linkedin.com/in/ogulcemyildiz)  
- **GitHub:** [github.com/cemyyldz](https://github.com/cemyyldz)
+## 📫 İletişim
 
----
+[![Email](https://img.shields.io/badge/Email-cem.yyldz@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cem.yyldz@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oğulcem%20Yıldız-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogulcemyildiz)
+[![GitHub](https://img.shields.io/badge/GitHub-cemyyldz-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cemyyldz)
 
 ###  “Gelişime açık, merakıyla beslenen ve teknolojiyi tutkuyla takip eden bir mühendis adayıyım.”  
