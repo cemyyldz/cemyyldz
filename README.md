@@ -13,7 +13,7 @@ My goal is to leverage my knowledge and experience to create user-focused, susta
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **![Programming Languages](https://img.shields.io/badge/Programming%20Languages-4B8BBE?style=for-the-badge&logo=code&logoColor=white)**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -42,17 +42,6 @@ My goal is to leverage my knowledge and experience to create user-focused, susta
 
 **![Frameworks](https://img.shields.io/badge/Frameworks-6DB33F?style=for-the-badge&logo=spring&logoColor=white)**  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
----
-
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemyyldz&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cemyyldz&layout=compact&theme=default&hide_border=true)
-
----
-
-##  Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cemyyldz&theme=default)
 
 ---
 
